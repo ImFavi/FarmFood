@@ -1,0 +1,21 @@
+/* PLANTILLA */
+body {
+    padding-top: 70px;
+}
+
+.navbar, .footer {
+    background-color: #F6F6F6;
+}
+
+h5, .navbar-brand, .footer h5 {
+    color: #6F7757;
+}
+
+p, .nav-link, .footer p, .text-link {
+    color: #2C1D1A;
+}
+
+.footer .container {
+    margin-top: 1rem;
+}
+/* FIN PLANTILLA */

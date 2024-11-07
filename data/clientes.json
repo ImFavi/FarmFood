@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Cliente A",
+        "productos": ["Producto 1", "Producto 2"],
+        "fechaInicio": "2024-11-01",
+        "fechaLimite": "2024-11-15",
+        "horasTrabajo": 10,
+        "precioTotal": 150.00
+    },
+    {
+        "nombre": "Cliente B",
+        "productos": ["Producto 3"],
+        "fechaInicio": "2024-10-25",
+        "fechaLimite": "2024-11-05",
+        "horasTrabajo": 5,
+        "precioTotal": 75.00
+    },
+    {
+        "nombre": "Cliente C",
+        "productos": ["Producto 1", "Producto 4", "Producto 5"],
+        "fechaInicio": "2024-11-03",
+        "fechaLimite": "2024-11-20",
+        "horasTrabajo": 15,
+        "precioTotal": 225.00
+    }
+]
